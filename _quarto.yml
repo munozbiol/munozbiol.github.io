@@ -2,9 +2,9 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  title: "Manuel Muñoz-Colmenares"                                # Your name
+  description: "Aquatic Ecologist Researcher" # A brief slogan (optional)
+  image: img/Muestreando.jpg
   
   favicon: img/favicon.png
   
@@ -24,15 +24,15 @@ website:
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+      - icon: github
+        href: https://github.com/munozbiol
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+        href: https://twitter.com/munozbiol
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: https://www.linkedin.com/in/munozbiol
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:manuel.e.munoz@uv.es"  
   
   
 
